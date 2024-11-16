@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "demo_transformarions", "demo_transformarions\demo_transformarions.dtproj", "{0B28F852-4766-4CCB-92D6-7C6CBC4D4FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B28F852-4766-4CCB-92D6-7C6CBC4D4FD2}.Development|Default.ActiveCfg = Development
+		{0B28F852-4766-4CCB-92D6-7C6CBC4D4FD2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1818157A-EE76-406A-95DB-DC9D0C9C5D51}
+	EndGlobalSection
+EndGlobal
